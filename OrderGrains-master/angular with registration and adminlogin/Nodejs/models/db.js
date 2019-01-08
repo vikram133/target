@@ -1,0 +1,1 @@
+exports.admin_validate = "select * from admin_tbl where name=? and password=?";
